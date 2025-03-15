@@ -1,5 +1,5 @@
 [package]
-name = "cli"
+name = "rust-cli-file-uploader"
 version = "0.1.0"
 edition = "2021"
 
